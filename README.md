@@ -12,6 +12,8 @@ This project demonstrates a simple self-driving car using Arduino, ultrasonic se
 1.Click simulation link below and then hope to start simulation, it will simply start simulating .
 
 2.To see the ultrasonic sensor view , simply tap on it.
+ Working Screenshot:
+ <img width="1361" height="672" alt="Screenshot 2026-03-06 150308" src="https://github.com/user-attachments/assets/672d5612-19b0-4a08-8f99-747af1e67728" />
 
 Tinkercad Simulation Link:
 https://www.tinkercad.com/things/59hbKJzsNko-bishal-kr-thakur-220107/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=VFE1vCjst3bzYwZ2ybP9UOSJCD_IveDbd7-v7hif6iI
